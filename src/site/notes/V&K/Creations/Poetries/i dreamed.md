@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/i-dreamed/","created":"2025-07-25T18:37:47.329+05:30","updated":"2025-07-25T18:40:11.966+05:30"}
+{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/i-dreamed/","created":"2025-07-25T18:37:47.329+05:30","updated":"2025-07-25T20:42:20.956+05:30"}
 ---
 
 i have dreamed and i remember
@@ -52,8 +52,8 @@ but it stayed long after i withdrew
 *triggered by:* [this reel](https://www.instagram.com/reel/DKSrRWEsTnw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 *connected:* 
-- [[GROWING UP\|GROWING UP]]
-- [[1. Switching Town\|1. Switching Town]]
+- [[V&K/(references)/GROWING UP\|GROWING UP]]
+- [[Switching Town\|Switching Town]]
 - [[2. Ticket Gate\|2. Ticket Gate]]
 - [[3. Sunshine In Winter\|3. Sunshine In Winter]]
 - [[4. For Granted\|4. For Granted]]
@@ -63,8 +63,8 @@ but it stayed long after i withdrew
 
 ### interpretation 
 
->> I can't help but be influenced by the title of the piece. To me, it feels like longing - for something that was, or that cannot be, or perhaps simply for peace with what is. There are some feelings that hurt to hold ([[1. Switching Town\|1. Switching Town]]) - not because they are painful, but simply because they are too large. This piece feels to me like the kind of love that makes you want to cry.
+>> I can't help but be influenced by the title of the piece. To me, it feels like longing - for something that was, or that cannot be, or perhaps simply for peace with what is. There are some feelings that hurt to hold ([[Switching Town\|Switching Town]]) - not because they are painful, but simply because they are too large. This piece feels to me like the kind of love that makes you want to cry.
 
->> I'm watching opportunities pass me by ([[4. For Granted\|4. For Granted]]), sort of like I'm watching other people live the life I wished I lived ([[GROWING UP\|GROWING UP]]).
+>> I'm watching opportunities pass me by ([[4. For Granted\|4. For Granted]]), sort of like I'm watching other people live the life I wished I lived ([[V&K/(references)/GROWING UP\|GROWING UP]]).
 
 >> It’s like I’m frozen on a train station ([[3. Sunshine In Winter\|3. Sunshine In Winter]]) and I just see everyone around me going ([[2. Ticket Gate\|2. Ticket Gate]]) and I can’t.

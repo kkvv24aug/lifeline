@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/my-gaze/","created":"2025-07-25T18:41:16.060+05:30","updated":"2025-07-25T18:41:36.515+05:30"}
+{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/my-gaze/","created":"2025-07-25T18:41:37.576+05:30","updated":"2025-07-25T18:41:36.515+05:30"}
 ---
 
 you’re smol

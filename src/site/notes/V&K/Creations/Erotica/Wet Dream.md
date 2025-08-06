@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-and-k/creations/erotica/wet-dream/","created":"2025-08-06T22:09:14.204+05:30","updated":"2025-08-06T23:32:52.904+05:30"}
+{"dg-publish":true,"permalink":"/v-and-k/creations/erotica/wet-dream/","created":"2025-08-06T22:09:14.204+05:30","updated":"2025-08-06T23:35:04.514+05:30"}
 ---
 
 We are adults. Financially independent.
@@ -95,7 +95,7 @@ I gasped. It hit me.
 A wave. A pull. A loss of control. 
 I had a freedom.
 I could come inside her.
-And her warmth welcomed me.
+And her warm walls welcomed all of me.
 And I—
 
 —woke up.  

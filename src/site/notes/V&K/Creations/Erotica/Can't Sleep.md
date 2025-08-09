@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-and-k/creations/erotica/can-t-sleep/","created":"2025-08-10T02:13:47.080+05:30","updated":"2025-08-10T03:11:34.577+05:30"}
+{"dg-publish":true,"permalink":"/v-and-k/creations/erotica/can-t-sleep/","created":"2025-08-10T02:13:47.080+05:30","updated":"2025-08-10T03:22:34.939+05:30"}
 ---
 
 I can't sleep.
@@ -12,6 +12,7 @@ I want to be with her so bad.
 I want to kiss her.
 I want to lick her.
 I want to penetrate her.
+I want HER.
 
 I can't sleep.
 I can't...
@@ -30,7 +31,7 @@ She looks at me with a seducing face, almost as if telling me to join her inside
 
 I went near her.
 The blanket and bedsheet had her sweet smell.
-I know I would have the best sleep here.
+I can imagine having the best sleep here, in her cozy presence.
 
 I snuggled down beside her.
 Under her warmth.
@@ -39,7 +40,7 @@ I cuddled her.
 Tight.
 My hands running over her back.
 I was far from sleepy.
-I was getting mad.
+I was getting crazy.
 
 I pulled her face towards me.
 She was looking straight into my eyes.
@@ -59,7 +60,7 @@ The AC tried his best to keep us cold, but the heat inside us made our body scor
 We were sweating so much.
 Even her sweat smelled so erotic.
 
-"Tu bhut toh kiita hot hai, uff, man kr rha h kha jaun," she told me and her eyes commanded no counter arguments. And I couldn't dare do that. She thinks I'm hot. That's it. Period. I'm hot. And this hot boy with his hottest girl is going to make love so passionately even the walls would be blushing.
+"Tu bhi toh kiita hot hai, uff, man kr rha h kha jaun," she complimented me and her eyes commanded no counter arguments. And I couldn't dare do that. She thinks I'm hot. That's it. Period. I'm hot. And this hot boy with his hottest girl is going to make love so passionately even the walls would be blushing.
 
 I touched her down there.
 Rubbing it over her pants.
@@ -103,8 +104,8 @@ She grabbed a pair of tissue from the drawer of the table by the side of the bed
 Then squeezed me dry.
 
 I was not able to process this humongous amount of dopamine flooding inside my body.
-I focused on my duty again.
-I probably made her cum too.
+I focused on my duty again to divert myself.
+I made her cum too.
 She was shaking.
 She told me to not stop so I kept doing it.
 She came thrice in the span of 2 minutes.
@@ -121,7 +122,7 @@ No lube required.
 I wasn't wearing condom either.
 Why would I?
 I need to come inside her warm walls.
-Nature didn't even intend us to do sex this way.
+Nature didn't even intend us to do sex with a latex on.
 And it's a dream anyway.
 
 She wrapped her legs around me.
@@ -163,4 +164,4 @@ Last night was magical.
 I slept for 10 hours straight yet felt tired.
 I guess I worked way too much in the dream.
 And the hangover... I still didn't get over it.
-Probably,[]() I would never ever get over it... and HER.
+Probably, I would never ever get over it... and HER.

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/v-and-k/creations/erotica/the-dream-of-24th-october/","created":"2025-09-30T00:20:17.357+05:30","updated":"2025-09-30T01:19:43.213+05:30"}
+{"dg-publish":true,"permalink":"/v-and-k/creations/erotica/the-dream-of-24th-october/","created":"2025-09-30T00:20:17.357+05:30","updated":"2025-10-02T12:26:51.180+05:30"}
 ---
 
-She had lied to her parents, saying she was meeting a female friend. And technically, she would. Just after spending a few hours with me. Those hours will be ours alone. 
+She had lied to her parents, saying she was meeting a female friend. And technically, she would. Just after spending a few hours with me. Tryst. Those hours will be ours alone. 
 
 She rode her scooty all the way to the mall by herself, alive. And I couldn’t stop feeling proud. My little angel on two wheels.
 

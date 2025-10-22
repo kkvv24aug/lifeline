@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/first-kiss/","created":"2025-10-22T17:57:14.926+05:30","updated":"2025-10-22T18:27:01.385+05:30"}
+{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/first-kiss/","created":"2025-10-22T17:57:14.926+05:30","updated":"2025-10-22T18:42:00.558+05:30"}
 ---
 
 the elevator—
@@ -99,3 +99,9 @@ of lips that stitched the cracks he hid,
 of two hearts that burned their hate for romance,
 just for each other,
 and called it life.
+
+---
+
+*music ref:*
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4mBmsPcPa1Eu4LDTHq55Ab?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

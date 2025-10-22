@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/first-kiss/","created":"2025-10-22T17:57:14.926+05:30","updated":"2025-10-22T17:59:07.833+05:30"}
+{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/first-kiss/","created":"2025-10-22T17:57:14.926+05:30","updated":"2025-10-22T18:27:01.385+05:30"}
 ---
 
 the elevator—
@@ -70,7 +70,26 @@ for this lifetime and beyond.
 no vows, no rings,
 just exchanged breaths in an elevator—
 and somewhere between them,
-our souls signed the paper.
+our souls signed the paper,
+on a sacred date.
+
+the number twenty-one.
+the date the universe kissed me twice.
+once, when she was born.
+and again, when she kissed me.
+twenty-one:
+the number that keeps me breathing,
+the reason i rise before alarms,
+the fire behind my muscles,
+the calm behind my voice.
+everything i’ve built
+the confidence, the art, the body, the courage
+was born from her.
+she’s not just my muse;
+she’s my milestone.
+and every 21st of anything
+feels like the world whispering,
+“live again.”
 
 and now, when i say forever,
 it’s not a promise.

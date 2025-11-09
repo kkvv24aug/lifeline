@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/toc/","created":"2025-07-25T18:45:21.961+05:30","updated":"2025-07-27T09:38:36.277+05:30"}
+{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/toc/","created":"2025-07-25T18:45:21.961+05:30","updated":"2025-11-09T19:21:38.253+05:30"}
 ---
 
 ### phase-1
@@ -16,3 +16,11 @@
 4. [[V&K/Creations/Poetries/how lucky am i\|how lucky am i]]
 > the poem to express the gratitude i had for this pool of serendipity i swim in everyday now 
 
+
+### phase-2
+
+1. [[V&K/Creations/Poetries/first kiss\|first kiss]]
+> we got married. so "forever" is not just a saying anymore.
+
+2. [[V&K/Creations/Poetries/The Strongest Woman\|The Strongest Woman]]
+> her life story. and my apology.

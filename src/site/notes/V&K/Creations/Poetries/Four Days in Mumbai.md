@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/four-days-in-mumbai/","created":"2026-03-14T15:12:14.957+05:30","updated":"2026-03-14T15:15:47.292+05:30"}
+{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/four-days-in-mumbai/","created":"2026-03-14T15:12:14.957+05:30","updated":"2026-03-14T15:25:52.140+05:30"}
 ---
 
 I want to write this down
@@ -15,7 +15,7 @@ turns into story.
 Because right now
 it still feels unreal.
 
-Four days ago
+Ten days ago
 I boarded a train on Holi morning,
 while the rest of the country
 was busy throwing colors at each other.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/toc/","created":"2025-07-25T18:45:21.961+05:30","updated":"2025-11-09T19:21:38.253+05:30"}
+{"dg-publish":true,"permalink":"/v-and-k/creations/poetries/toc/","created":"2025-07-25T18:45:21.961+05:30","updated":"2026-03-14T15:22:43.579+05:30"}
 ---
 
 ### phase-1
@@ -24,3 +24,9 @@
 
 2. [[V&K/Creations/Poetries/The Strongest Woman\|The Strongest Woman]]
 > her life story. and my apology.
+
+
+### phase-3
+
+1. [[V&K/Creations/Poetries/Four Days in Mumbai\|Four Days in Mumbai]]
+> we are now in the phase of working together, building our career together, making all the dreams (and eroticas) of ours come to reality.  

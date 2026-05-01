@@ -43,3 +43,34 @@
 {% endif %}
 <style>
 </style>
+
+
+<!-- Typesetting Engine Animation Observer -->
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        // Configure the observer
+        const observerOptions = {
+            root: null,
+            rootMargin: "0px 0px -15% 0px", // Triggers when element is 15% up from the bottom of the screen
+            threshold: 0.1
+        };
+
+        const animationObserver = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    // Add the 'visible' class to trigger the CSS transition
+                    entry.target.classList.add('visible');
+                    
+                    // Stop observing once it's visible so it doesn't repeat on scroll up
+                    observer.unobserve(entry.target); 
+                }
+            });
+        }, observerOptions);
+
+        // Find everything in the markdown that has our animation classes
+        const animatedElements = document.querySelectorAll('.reveal, .fade-in, .slide-right');
+        
+        // Start watching them
+        animatedElements.forEach(el => animationObserver.observe(el));
+    });
+</script>

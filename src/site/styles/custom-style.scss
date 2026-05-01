@@ -1,13 +1,98 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    /* =========================================
+       1. GLOBAL THEME OVERRIDES (Dark Lavender)
+       ========================================= */
+    --background-primary: #0b0710;
+    --background-primary-alt: rgba(25, 15, 35, 0.6);
+    --background-secondary: rgba(25, 15, 35, 0.45);
+    
+    --text-main: #e8e3f5;
+    --text-normal: #e8e3f5;
+    --text-muted: #a097b5;
+    --text-accent: #c49eff;
+    --text-accent-hover: #d4b3ff;
+    --interactive-accent: #8a4fff;
+
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+    
+    /* Ambient glowing orbs for the background */
+    &::before, &::after {
+        content: '';
+        position: fixed;
+        border-radius: 50%;
+        filter: blur(120px);
+        z-index: -1;
+        pointer-events: none;
+        animation: float 15s ease-in-out infinite alternate;
+    }
+    
+    &::before {
+        width: 40vw; 
+        height: 40vw;
+        background: rgba(138, 79, 255, 0.08);
+        top: 10%; 
+        left: -10%;
+    }
+    
+    &::after {
+        width: 50vw; 
+        height: 50vw;
+        background: rgba(196, 158, 255, 0.05);
+        bottom: -10%; 
+        right: -10%;
+        animation-delay: -7s;
+    }
 }
+
+@keyframes float {
+    0% { transform: translateY(0px) translateX(0px); }
+    100% { transform: translateY(-50px) translateX(30px); }
+}
+
+/* =========================================
+   2. THE TYPESETTING ENGINE (Markdown Utilities)
+   ========================================= */
+
+/* Alignment & Typography */
+.center { text-align: center; display: block; margin-left: auto; margin-right: auto; }
+.right { text-align: right; display: block; }
+.justify { text-align: justify; }
+.bold-glow { font-weight: bold; text-shadow: 0 0 10px rgba(196, 158, 255, 0.5); }
+.italic-soft { font-style: italic; color: var(--text-muted); }
+
+/* Colors */
+.text-red { color: #ff6b6b; }
+.text-lavender { color: var(--text-accent); }
+.text-pink { color: #fbc2eb; }
+
+/* Animations (Initial Hidden States) */
+.reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    filter: blur(5px);
+    transition: all 1s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.fade-in {
+    opacity: 0;
+    transition: opacity 1.5s ease-in;
+}
+
+.slide-right {
+    opacity: 0;
+    transform: translateX(-40px);
+    transition: all 0.8s ease-out;
+}
+
+/* Animations (Triggered Visible States) */
+.reveal.visible, .fade-in.visible, .slide-right.visible {
+    opacity: 1;
+    transform: translate(0);
+    filter: blur(0);
+}
+
+/* Timing Staggers (For multi-line reveals) */
+.delay-1 { transition-delay: 0.2s; }
+.delay-2 { transition-delay: 0.4s; }
+.delay-3 { transition-delay: 0.6s; }

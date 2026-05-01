@@ -240,17 +240,17 @@ I'll never let her kneel down just to ask someone, even me, to love her, ever ag
 I’ll never let her fight alone again.
 She IS my priority.
 
-Because she,
-my Vaibhav Laxmi,
-is not fragile.
-She is forged.
-She is strength itself,
-disguised as a cutu girl.
-Soft stories what?
-She is a storm with manners.
-A wound that still offers warmth.
-A goddess who bleeds and still believes in love
-after everything love took from her.
+Because she, { .center .bold-glow .reveal }
+my Vaibhav Laxmi, { .center .bold-glow .reveal }
+is not fragile. { .center .bold-glow .reveal }
+She is forged. { .center .bold-glow .reveal }
+She is strength itself, { .center .bold-glow .reveal }
+disguised as a cutu girl. { .center .bold-glow .reveal }
+Soft stories what? { .center .bold-glow .reveal }
+She is a storm with manners. { .center .bold-glow .reveal }
+A wound that still offers warmth. { .center .bold-glow .reveal }
+A goddess who bleeds and still believes in love { .center .bold-glow .reveal }
+after everything love took from her. { .center .bold-glow .reveal }
 
 And if there is heaven,
 I’ll tell them I’ve already seen it.
@@ -264,7 +264,7 @@ She is the strongest woman.
 Not because she never breaks,
 but because she breaks,
 and still chooses
-##### love.
+##### love. { .reveal .delay-2 .text-pink }
 
 ---
 

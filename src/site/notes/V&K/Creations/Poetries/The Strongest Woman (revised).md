@@ -250,7 +250,7 @@ Soft stories what?
 She is a storm with manners.
 A wound that still offers warmth.
 A goddess who bleeds and still believes in love
-after everything love took from her. { .center .bold-glow .reveal }
+after everything love took from her.
 
 And if there is heaven,
 I’ll tell them I’ve already seen it.

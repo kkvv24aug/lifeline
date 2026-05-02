@@ -42,7 +42,7 @@ export default function middleware(request) {
 
   // EXEMPTION: If the path includes /admin/ or /api/, let it pass through
   // This is a second layer of defense for the matcher above
-  if (url.pathname.startsWith('/admin') || url.pathname.startsWith('/api')) {
+  if (url.pathname.startsWith('/admin') || url.pathname.startsWith('/api') || url.pathname.includes('config.yml')) {
     return;
   }
 

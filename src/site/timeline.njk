@@ -190,10 +190,13 @@ ADD THIS INSIDE <style>
 
 .upcoming-section::before {
         content: "";
-        background-image: conic-gradient(
-            #ff0052 20deg,
-            transparent 120deg
-        );
+        background: conic-gradient(
+            from 0deg,
+        transparent,
+        var(--text-accent),
+        var(--interactive-accent),
+        transparent
+    );
         width: 150%;
         height: 150%;
         position: absolute;
@@ -215,7 +218,8 @@ ADD THIS INSIDE <style>
         letter-spacing: 5px;
         box-shadow: inset 20px 20px 20px #0000008c;
     }
-    @keyframes rotate {
+
+@keyframes rotate {
         0%{
             transform: rotate(0deg);
         }

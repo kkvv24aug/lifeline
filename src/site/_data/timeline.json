@@ -305,6 +305,12 @@
       "date": "2026-04-19",
       "time": "",
       "message": "Started our content venture - kyurious.kids"
+    },
+    {
+      "type": "journal",
+      "date": "2026-05-02",
+      "time": "5:00 PM",
+      "message": "Upgraded the V&K website: Namely, added the timeline view + added the admin panel so she can also add content to the website (rn testing it) + added a login panel so no one other than us can access the website"
     }
   ]
 }

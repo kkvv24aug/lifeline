@@ -19,12 +19,14 @@ collections:
       - file: "src/site/_data/timeline.json"
         name: "timeline"
         label: "Manage Timeline Entries"
+        editor:
+          preview: false
         fields:
           - label: "Entries"
             name: "entries"
             widget: "list"
             fields:
               - {label: "Entry Type", name: "type", widget: "select", options: ["recurring", "journal"]}
-              - {label: "Date", name: "date", widget: "date", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Time (Optional, e.g., 01:27 AM)", name: "time", widget: "string", required: false}
               - {label: "Memory / Message", name: "message", widget: "text"}

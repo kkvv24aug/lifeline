@@ -6,6 +6,70 @@
     <title>Admin Portal</title>
     <!-- This tells the CMS exactly where the config file is -->
     <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url">
+
+    <style>
+    /* Global Dark Lavender Background */
+    body {
+        background-color: #0b0710 !important;
+        background-image: radial-gradient(circle at 50% 50%, rgba(138, 79, 255, 0.15), transparent 60%) !important;
+        color: #e8e3f5 !important;
+    }
+
+    /* Target the main CMS wrapper to make it transparent */
+    #nc-root > div > div {
+        background: transparent !important;
+    }
+
+    /* Top Navigation Bar */
+    [class*="AppHeader"] {
+        background: rgba(25, 15, 35, 0.45) !important;
+        backdrop-filter: blur(20px) !important;
+        -webkit-backdrop-filter: blur(20px) !important;
+        border-bottom: 1px solid rgba(196, 158, 255, 0.15) !important;
+    }
+
+    /* The Main Editor / Collection Cards */
+    [class*="Card"], [class*="EditorContainer"], [class*="CollectionContainer"] {
+        background: rgba(25, 15, 35, 0.6) !important;
+        backdrop-filter: blur(20px) !important;
+        -webkit-backdrop-filter: blur(20px) !important;
+        border: 1px solid rgba(196, 158, 255, 0.15) !important;
+        border-radius: 16px !important;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5) !important;
+    }
+
+    /* Input Fields */
+    input, select, textarea {
+        background: rgba(255, 255, 255, 0.05) !important;
+        border: 1px solid rgba(196, 158, 255, 0.2) !important;
+        color: #e8e3f5 !important;
+        border-radius: 8px !important;
+    }
+
+    input:focus, select:focus, textarea:focus {
+        border-color: #d4b3ff !important;
+        box-shadow: 0 0 10px rgba(212, 179, 255, 0.2) !important;
+        outline: none !important;
+    }
+
+    /* Buttons */
+    button {
+        border-radius: 8px !important;
+    }
+    
+    /* Primary Action Buttons (like "Publish" or "Save") */
+    button[class*="Button-button-default-primary"] {
+        background: linear-gradient(135deg, #8a4fff, #c49eff) !important;
+        color: white !important;
+        border: none !important;
+        box-shadow: 0 4px 15px rgba(138, 79, 255, 0.3) !important;
+    }
+
+    /* Text Colors */
+    h1, h2, h3, h4, label, span {
+        color: #e8e3f5 !important;
+    }
+</style>
   </head>
   <body>
     <!-- Script must be at the bottom of body to prevent the 'appendChild' error -->

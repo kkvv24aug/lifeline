@@ -569,7 +569,7 @@ eleventyConfig.addPassthroughCopy("src/site/admin/index.html");
     dir: {
       input: "src/site",
       output: "dist",
-      data: `_data`,
+      data: "_data",
     },
     templateFormats: ["njk", "md", "11ty.js"],
     htmlTemplateEngine: "njk",

@@ -308,7 +308,7 @@
     },
     {
       "type": "journal",
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "time": "5:00 PM",
       "message": "Upgraded the V&K website: Namely, added the timeline view + added the admin panel so she can also add content to the website (rn testing it) + added a login panel so no one other than us can access the website"
     },
@@ -316,6 +316,11 @@
       "type": "recurring",
       "message": "Kartik's Birthday",
       "date": "2005-03-24"
+    },
+    {
+      "type": "recurring",
+      "date": "2026-05-05",
+      "message": "checking the near event thing"
     }
   ]
 }

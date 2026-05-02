@@ -166,7 +166,7 @@ ADD THIS INSIDE <style>
     overflow: hidden;
 }
 
-.upcoming-section::before {
+{# .upcoming-section::before {
     content: '';
     position: absolute;
     inset: -2px;
@@ -186,12 +186,48 @@ ADD THIS INSIDE <style>
     -webkit-mask-composite: xor;
             mask-composite: exclude;
     pointer-events: none;
+} #}
+
+.upcoming-section::before {
+        content: "";
+        background-image: conic-gradient(
+            #ff0052 20deg,
+            transparent 120deg
+        );
+        width: 150%;
+        height: 150%;
+        position: absolute;
+        animation: rotate 2s linear infinite;
 }
 
-@keyframes spinBorder {
+.upcoming-section::after{
+        content: "Animation";
+        width: 190px;
+        height: 190px;
+        background: #101010;
+        position: absolute;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #ff0052;
+        font-size: larger;
+        letter-spacing: 5px;
+        box-shadow: inset 20px 20px 20px #0000008c;
+    }
+    @keyframes rotate {
+        0%{
+            transform: rotate(0deg);
+        }
+        100%{
+            transform: rotate(-360deg);
+        }
+    }
+
+{# @keyframes spinBorder {
     from { transform: rotate(0deg); }
     to { transform: rotate(360deg); }
-}
+} #}
     </style>
 </head>
 <body>

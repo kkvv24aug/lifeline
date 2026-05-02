@@ -8,7 +8,7 @@ export const config = {
      * - _vercel (Vercel system internals)
      * - favicon.svg (the tab icon)
      */
-    '/((?!api|login|styles|img|scripts|_vercel|favicon\\.svg).*)',
+    '/((?!api|login|admin|styles|img|scripts|_vercel|favicon\\.svg).*)',
   ],
 };
 

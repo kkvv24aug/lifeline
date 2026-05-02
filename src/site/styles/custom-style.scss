@@ -96,3 +96,20 @@ body {
 .delay-1 { transition-delay: 0.2s; }
 .delay-2 { transition-delay: 0.4s; }
 .delay-3 { transition-delay: 0.6s; }
+
+
+.timeline-nav-link {
+    margin-left: 20px;
+    font-size: 1.1rem;
+    color: var(--text-accent);
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border-bottom: 1px dashed transparent;
+    
+    &:hover {
+        color: var(--text-accent-hover);
+        text-shadow: 0 0 10px rgba(196, 158, 255, 0.4);
+        border-bottom: 1px dashed var(--text-accent-hover);
+    }
+}

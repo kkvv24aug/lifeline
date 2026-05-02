@@ -3,12 +3,12 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Admin - Our Digital Garden</title>
-    <!-- Include the CMS script -->
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <link href="config.yml" type="text/yaml" rel="cms-config-url">
+    <title>Admin Portal</title>
+    <!-- This tells the CMS exactly where the config file is -->
+    <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url">
   </head>
   <body>
-    <!-- The CMS will render here -->
+    <!-- Script must be at the bottom of body to prevent the 'appendChild' error -->
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   </body>
 </html>

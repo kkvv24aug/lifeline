@@ -524,7 +524,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
-  eleventyConfig.addPassthroughCopy("src/site/admin");
+  // eleventyConfig.addPassthroughCopy("src/site/admin");
+  // In .eleventy.js
+eleventyConfig.addPassthroughCopy("src/site/admin/config.yml");
+eleventyConfig.addPassthroughCopy("src/site/admin/index.html");
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,

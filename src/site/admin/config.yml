@@ -2,9 +2,12 @@ backend:
   name: github
   repo: kkvv24aug/lifeline # ⚠️ CHANGE THIS to your exact GitHub repo (e.g., kartik/digital-garden)
   branch: main # ⚠️ Change to 'master' if your main branch is called master
-  use_pkce: true # ⚠️ Enable PKCE for secure authentication without a backend server
-  auth_type: pkce
-  app_id: Ov23liuvLViQeIdQUXfK # ⚠️ We will get this in Step 4
+  # use_pkce: true # ⚠️ Enable PKCE for secure authentication without a backend server
+  # auth_type: pkce
+  # app_id: Ov23liuvLViQeIdQUXfK # ⚠️ We will get this in Step 4
+  base_url: https://kartik-and-vaibhav-forever-strongest.vercel.app
+  auth_endpoint: api/auth
+
 
 media_folder: "src/site/img"
 public_folder: "/img"

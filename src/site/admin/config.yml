@@ -1,0 +1,26 @@
+backend:
+  name: github
+  repo: kkvv24aug/lifeline # ⚠️ CHANGE THIS to your exact GitHub repo (e.g., kartik/digital-garden)
+  branch: main # ⚠️ Change to 'master' if your main branch is called master
+  use_pkce: true
+  app_id: Ov23liuvLViQeIdQUXfK # ⚠️ We will get this in Step 4
+
+media_folder: "src/site/img"
+public_folder: "/img"
+
+collections:
+  - name: "timeline_data"
+    label: "Timeline Database"
+    files:
+      - file: "src/site/_data/timeline.json"
+        name: "timeline"
+        label: "Manage Timeline Entries"
+        fields:
+          - label: "Entries"
+            name: "entries"
+            widget: "list"
+            fields:
+              - {label: "Entry Type", name: "type", widget: "select", options: ["recurring", "journal"]}
+              - {label: "Date", name: "date", widget: "date", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Time (Optional, e.g., 01:27 AM)", name: "time", widget: "string", required: false}
+              - {label: "Memory / Message", name: "message", widget: "text"}

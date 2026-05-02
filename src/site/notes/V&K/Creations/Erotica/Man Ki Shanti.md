@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/v-and-k/creations/erotica/man-ki-shanti/","created":"2025-11-08T21:25:22.343+05:30","updated":"2025-11-08T21:33:48.301+05:30"}
 ---
 
+```whatsapp
 [11/7, 17:01] meri laxmi: 2-3 din se kuchh bhayankar expert session chl rha himalya me to sare achhe teachers ussi me lge h
 Class me v nii aye to kaise puchti 
 N mess jati ni ab to btech wale bndo se milti v ni 
@@ -196,3 +197,4 @@ usi ke liye to jinda hu
 [11/7, 18:02] meri laxmi: I'm soo fortunate to have u
 [11/7, 18:02] meri laxmi: I feel so blessed
 [11/7, 18:02] meri laxmi: 😭
+```

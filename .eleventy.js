@@ -151,6 +151,57 @@ module.exports = function (eleventyConfig) {
           const code = token.content.trim();
           return `<div class="transclusion">${md.render(code)}</div>`;
         }
+        if (token.info === "whatsapp") {
+          const rawText = token.content.trim();
+          const lines = rawText.split('\n');
+          let messages = [];
+          let currentMsg = null;
+
+          // Highly resilient regex that catches iOS and Android WhatsApp export variations
+          const headerRegex = /^\[?(\d{1,2}[/.-]\d{1,2}(?:[/.-]\d{2,4})?)[, ]+\s*(\d{1,2}:\d{2}(?::\d{2})?\s*[aApP]?[mM]?)\]?[\s\-]*([^:]+):\s*(.*)/;
+
+          lines.forEach(line => {
+              const match = line.match(headerRegex);
+              if (match) {
+                  if (currentMsg) messages.push(currentMsg);
+                  currentMsg = {
+                      date: match[1],
+                      time: match[2],
+                      name: match[3].trim(),
+                      text: match[4]
+                  };
+              } else if (currentMsg) {
+                  // This catches multi-line messages that don't have a timestamp on every line
+                  currentMsg.text += '<br>' + line;
+              } else if (line.trim() !== '') {
+                  // Catches system messages like "Messages to this chat and calls are now secured..."
+                  messages.push({ type: 'system', text: line });
+              }
+          });
+          if (currentMsg) messages.push(currentMsg);
+
+          let html = '<div class="whatsapp-chat-container">';
+          messages.forEach(msg => {
+              if (msg.type === 'system') {
+                   html += `<div class="chat-system"><span>${msg.text}</span></div>`;
+              } else {
+                   // If the name has 'kartik', align to the right. Otherwise, left (Vaibhu).
+                   const isMe = msg.name.toLowerCase().includes('kartik');
+                   const alignment = isMe ? 'chat-right' : 'chat-left';
+                   
+                   html += `
+                   <div class="chat-message ${alignment}">
+                       <div class="chat-bubble">
+                           <div class="chat-name">${msg.name}</div>
+                           <div class="chat-text">${msg.text}</div>
+                           <div class="chat-meta">${msg.date} • ${msg.time}</div>
+                       </div>
+                   </div>`;
+              }
+          });
+          html += '</div>';
+          return html;
+        }
         if (token.info.startsWith("ad-")) {
           const code = token.content.trim();
           const parts = code.split("\n")

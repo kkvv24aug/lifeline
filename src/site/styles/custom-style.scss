@@ -113,3 +113,99 @@ body {
         border-bottom: 1px dashed var(--text-accent-hover);
     }
 }
+
+
+
+/* =========================================
+   3. WHATSAPP CHAT PARSER UI
+   ========================================= */
+
+.whatsapp-chat-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 25px;
+    background: rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(196, 158, 255, 0.05);
+    border-radius: 20px;
+    margin: 30px 0;
+    font-family: var(--font-main);
+}
+
+.chat-message {
+    display: flex;
+    flex-direction: column;
+    max-width: 85%;
+    animation: fadeInUp 0.4s ease-out forwards;
+}
+
+.chat-left {
+    align-self: flex-start;
+}
+
+.chat-right {
+    align-self: flex-end;
+}
+
+.chat-bubble {
+    padding: 12px 18px;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    position: relative;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Vaibhu's Messages (Left) */
+.chat-left .chat-bubble {
+    background: rgba(255, 255, 255, 0.07);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 18px 18px 18px 4px;
+}
+
+.chat-left .chat-name {
+    color: #fbc2eb; /* Soft Pink */
+}
+
+/* Your Messages (Right) */
+.chat-right .chat-bubble {
+    background: rgba(138, 79, 255, 0.25);
+    border: 1px solid rgba(196, 158, 255, 0.2);
+    border-radius: 18px 18px 4px 18px;
+}
+
+.chat-right .chat-name {
+    display: none; /* Hide your own name for a cleaner UI, like real WhatsApp */
+}
+
+.chat-name {
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 4px;
+    letter-spacing: 0.5px;
+}
+
+.chat-text {
+    font-size: 1.05rem;
+    color: var(--text-main);
+    line-height: 1.4;
+}
+
+.chat-meta {
+    font-size: 0.65rem;
+    color: var(--text-faint);
+    text-align: right;
+    margin-top: 6px;
+    opacity: 0.7;
+}
+
+.chat-system {
+    align-self: center;
+    margin: 10px 0;
+    span {
+        background: rgba(0, 0, 0, 0.4);
+        padding: 5px 12px;
+        border-radius: 12px;
+        font-size: 0.75rem;
+        color: var(--text-muted);
+    }
+}

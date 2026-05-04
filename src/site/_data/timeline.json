@@ -26,9 +26,27 @@
     },
     {
       "type": "recurring",
-      "date": "2000-07-06",
+      "date": "1969-07-06",
       "time": "",
-      "message": "Manoj Bauji's Bday + International Kissing Day"
+      "message": "Manoj Sasur Ji's Bday + International Kissing Day"
+    },
+    {
+      "type": "recurring",
+      "date": "1979-12-25",
+      "time": "",
+      "message": "Rinki Saasu Maa Bday"
+    },
+    {
+      "type": "recurring",
+      "date": "1975-03-22",
+      "time": "",
+      "message": "Ratnesh Sasur Ji Bday"
+    },
+    {
+      "type": "recurring",
+      "date": "2002-03-09",
+      "time": "",
+      "message": "Ruदी Bday"
     },
     {
       "type": "recurring",

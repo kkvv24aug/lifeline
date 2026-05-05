@@ -1,13 +1,10 @@
 {
-    "outputDirectory": "dist",
-    "installCommand": "npm install",
-    "buildCommand": "npm run build",
-    "devCommand": "npm run start",
-      "routes": [
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "status": 404,
-      "dest": "/404.html"
+      "source": "/(.*)",
+      "destination": "/404.html"
     }
   ]
 }
